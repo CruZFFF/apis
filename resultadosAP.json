@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "Virginia",
+    "lat": 39.03,
+    "lon": -77.5,
+    "isp": "Google LLC",
+    "query": "8.8.8.8",
+    "timestamp": "2025-07-15T22:37:14.270962"
+  },
+  {
+    "status": "success",
+    "country": "Canada",
+    "regionName": "Quebec",
+    "lat": 45.5019,
+    "lon": -73.5674,
+    "isp": "Microsoft Corporation",
+    "query": "13.107.42.14",
+    "timestamp": "2025-07-15T22:37:25.989022"
+  },
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "California",
+    "lat": 37.3322,
+    "lon": -122.011,
+    "isp": "Apple Inc.",
+    "query": "17.172.224.47",
+    "timestamp": "2025-07-15T22:37:52.701133"
+  },
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "California",
+    "lat": 37.4043,
+    "lon": -122.0748,
+    "isp": "Google LLC",
+    "query": "216.58.207.206",
+    "timestamp": "2025-07-15T22:38:11.525685"
+  },
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "California",
+    "lat": 37.7642,
+    "lon": -122.3993,
+    "isp": "Cisco OpenDNS, LLC",
+    "query": "208.67.222.222",
+    "timestamp": "2025-07-15T22:38:40.237528"
+  },
+  {
+    "status": "success",
+    "country": "Canada",
+    "regionName": "Ontario",
+    "lat": 43.6532,
+    "lon": -79.3832,
+    "isp": "Cloudflare, Inc.",
+    "query": "104.16.132.229",
+    "timestamp": "2025-07-15T22:39:19.559184"
+  },
+  {
+    "status": "success",
+    "country": "Germany",
+    "regionName": "Hesse",
+    "lat": 50.1109,
+    "lon": 8.68213,
+    "isp": "Amazon Technologies Inc.",
+    "query": "52.58.78.16",
+    "timestamp": "2025-07-15T22:39:33.361099"
+  },
+  {
+    "status": "success",
+    "country": "Oman",
+    "regionName": "Muscat",
+    "lat": 23.588,
+    "lon": 58.3829,
+    "isp": "Google LLC",
+    "query": "142.250.180.46",
+    "timestamp": "2025-07-15T22:39:49.963764"
+  },
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "Virginia",
+    "lat": 39.0438,
+    "lon": -77.4874,
+    "isp": "Amazon.com, Inc.",
+    "query": "18.232.188.237",
+    "timestamp": "2025-07-15T22:40:05.342021"
+  },
+  {
+    "status": "success",
+    "country": "United States",
+    "regionName": "Washington",
+    "lat": 47.233,
+    "lon": -119.852,
+    "isp": "Microsoft Corporation",
+    "query": "20.112.52.29",
+    "timestamp": "2025-07-15T22:40:52.779843"
+  }
+]
